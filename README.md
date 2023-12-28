@@ -4,6 +4,9 @@ The black-jack game written in Clojure
 
 A Clojure library designed to ... well, that part is up to you.
 
+Here is a brief working demo running Clojure and native Leiningen with REPL in vscode using Calva
+![image](/doc/img/ex.png)
+
 ## Usage
 
 FIXME
