@@ -134,4 +134,4 @@
    (def dealer-after-game (game dealer partial-dealer-decision-continue))
    (end-game player-after-game dealer-after-game))
 
-(start-game "Guto")
+(start-game "Fabricio")
