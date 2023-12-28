@@ -1,15 +1,15 @@
 # blackjack
 
-The black-jack game written in Clojure
-
-A Clojure library designed to ... well, that part is up to you.
+My first personal project using the Clojure language! Although this project was developed using the IntelliJ IDE, I had a small preference to adapt it to Visual Studio Code. Therefore, I used some tools, such as Calva, which is an integrated development environment with REPL technology for Clojure and ClojureScript programming, and our beloved Leiningen, which is one of the best tools for managing dependencies and building projects in Clojure.
 
 Here is a brief working demo running Clojure and native Leiningen with REPL in vscode using Calva
 ![image](/doc/img/ex.png)
 
 ## Usage
 
-FIXME
+```bash
+$ git clone git@github.com:Ujs74wiop6/blackjack.git
+```
 
 ## License
 
